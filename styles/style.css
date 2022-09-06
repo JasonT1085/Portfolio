@@ -361,10 +361,10 @@ section {
   transition: all 0.4s ease-in-out;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .unreal {
-  width: 55% !important;
+  width: 60% !important;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
-  width: 55% !important;
+  width: 60% !important;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
   width: 50% !important;
@@ -373,7 +373,7 @@ section {
   width: 50% !important;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .git {
-  width: 55% !important;
+  width: 60% !important;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
   width: 40% !important;
