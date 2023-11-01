@@ -364,13 +364,13 @@ section {
   width: 60% !important;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .cpp {
-  width: 60% !important;
+  width: 50% !important;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
   width: 50% !important;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .cs {
-  width: 50% !important;
+  width: 30% !important;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .git {
   width: 60% !important;
